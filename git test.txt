@@ -1,1 +1,7 @@
 git test
+
+메모 수정 후 
+git add. 와 git commit 사용
+
+git.clone을 사용 프로젝트 가져옴
+수정 후 push를 이용해 원격 저장소에 저장
